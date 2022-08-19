@@ -65983,7 +65983,7 @@ return A.ig(A.a([A.b_(s,A.fF(A.dE("7. Rate your coding skills",s,s,s,A.py(B.k,20
 qG(){var s=0,r=A.a_(t.z),q=this,p,o,n,m,l
 var $async$qG=A.a0(function(a,b){if(a===1)return A.X(b,r)
 while(true)switch(s){case 0:q.ad(new A.aae())
-p=A.o_("http://192.168.29.235:3000/adddetail",0,null)
+p=A.o_("https://real-lime-bear-fez.cyclic.app/adddetail",0,null)
 A.e0("Uploading")
 A.e0($.aej().a.a)
 o=t.N
