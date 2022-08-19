@@ -66126,7 +66126,7 @@ L(a,b){var s=null
 return A.afD(B.mf,A.b_(s,A.ig(B.CG,B.ak,B.ey,B.ap),s,s,B.fa,s,s,s,s),s)}}
 A.Gk.prototype={
 L(a,b){var s=null,r=A.a5u(B.aj,s,s).R8,q=A.eo(s,s,r.a),p=A.eo(s,s,r.b),o=A.eo(s,s,r.c),n=A.eo(s,s,r.d),m=A.eo(s,s,r.e),l=A.eo(s,s,r.f),k=A.eo(s,s,r.r),j=A.eo(s,s,r.w),i=A.eo(s,s,r.x)
-return new A.ws(B.GW,"Student Survey",A.a5u(s,B.hh,A.afO(A.eo(s,s,r.y),A.eo(s,s,r.z),A.eo(s,s,r.Q),q,p,o,n,m,l,A.eo(s,s,r.as),A.eo(s,s,r.at),A.eo(s,s,r.ax),k,j,i)),!1,s)}}
+return new A.ws(B.GW,"GDSC Student Survey | GDSC MITADT",A.a5u(s,B.hh,A.afO(A.eo(s,s,r.y),A.eo(s,s,r.z),A.eo(s,s,r.Q),q,p,o,n,m,l,A.eo(s,s,r.as),A.eo(s,s,r.at),A.eo(s,s,r.ax),k,j,i)),!1,s)}}
 A.a76.prototype={}
 A.S3.prototype={
 rr(){var s=0,r=A.a_(t.wd),q,p=2,o,n=[],m,l,k,j
