@@ -1,6 +1,6 @@
 {
-    "name": "gdsc_form",
-    "short_name": "gdsc_form",
+    "name": "gccp_leaderboard",
+    "short_name": "gccp_leaderboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
